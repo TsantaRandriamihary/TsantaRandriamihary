@@ -1,4 +1,3 @@
-# 💫 About Me:
 👩‍💻 Étudiante en informatique (3e année) – passionnée par le développement Fullstack.<br>🔧 Ce compte contient mes projets web, logiciel et mobile réalisés pendant ma formation.<br>📚 Toujours curieuse d'apprendre et de progresser.
 
 
