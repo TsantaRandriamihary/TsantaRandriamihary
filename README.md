@@ -1,6 +1,6 @@
-Passionate about building things that work.
-Currently a 3rd-year Computer Science student, exploring the world of Fullstack development through web, software, and mobile projects.
-Always learning, always growing — one line of code at a time.
+Passionate about building things that work. <br>
+Currently a 3rd-year Computer Science student, exploring the world of Web Fullstack development.<br>
+Always learning, always growing — one line of code at a time. 📚<br>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TsantaRandriamihary) 
